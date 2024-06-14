@@ -1,0 +1,1 @@
+from module_logging.settings import logging_config_dict
